@@ -1,4 +1,4 @@
-# EDALab
+# EDASQLLab
 
 ##Editing the file
 
